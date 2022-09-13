@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">AppSqLite</string>
-    <string name="edtNome">Digite seu nome</string>
-    <string name="edtEndereco">Digite seu endereço</string>
-    <string name="edtBairro">Digite seu bairro</string>
-    <string name="edtCEP">Digite seu cep</string>
+    <string name="app_name">appRevisao</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtEndereco">Endereço:</string>
+    <string name="txtBairro">Bairro:</string>
+    <string name="txtCep">Cep:</string>
     <string name="btnCadastrar">Cadastrar</string>
+    <string name="txtResposta">Confirmação dos Dados</string>
+    <string name="btnConfirmar">Confirmar</string>
+
 </resources>
